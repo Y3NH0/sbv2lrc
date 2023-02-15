@@ -1,7 +1,7 @@
 # .sbv2.lrc converter
 
 ## utils
-* run converter: `python SbvToLrcConverter.py`
+* run converter: `python SbvToLrcConverter.py` or click the application file `SbvToLrcConverter`
 * input sbv subtitle
     
     drag .sbv file to the input block or paste the sbv subtitle to the input block
